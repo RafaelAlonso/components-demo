@@ -1,0 +1,17 @@
+.card-product {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  box-shadow: 0 5px 30px rgba(0,0,0,.3);
+  width: max-content;
+  padding-right: 15px;
+}
+
+.card-product img {
+  width: 100px;
+  margin-right: 15px;
+}
+
+.card-product h3, .card-product p {
+  margin: 0;
+}
